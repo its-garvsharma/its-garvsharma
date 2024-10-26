@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garv Kumar Sharma</h1>
-<h3 align="center">A passionate VLSI Design from India</h3>
+<h3 align="center">I am passionate VLSI Designer from India</h3>
 
 ## 🚀 About Me
 I'm a **Hi, I’m Garv Kumar Sharma, a passionate Electronics & Communications Engineering student with a focus on VLSI design, semiconductor technology, and digital circuit design. I’m in my third year of B.Tech and have hands-on experience with tools like Cadence Virtuoso for designing and analyzing circuits, from basic to advanced logic systems. My projects have included radiation-hardened SRAM cells and non-inverting Schmitt triggers tailored for space applications. I'm dedicated to mastering concepts in analog and digital VLSI, hardware design, and Verilog programming.**
@@ -27,6 +27,9 @@ I'm a **Hi, I’m Garv Kumar Sharma, a passionate Electronics & Communications E
 - *Static Timing Analysis (STA): Looking for guidance on mastering **clock tree synthesis (CTS)** and *timing analysis** techniques.
 - *Power Optimization Techniques: Learning more about **low-power design methodologies** for digital circuits.
 
+- 💬 **Ask me about**
+  **Layout design, Schematic design**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srb-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="srb-tyagi" /> </p>
 
@@ -47,15 +50,12 @@ I'm a **Hi, I’m Garv Kumar Sharma, a passionate Electronics & Communications E
 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/its_garvsharma/profilecard/?igsh=MTFyNTcweHFvOHJiMg==)
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-garvsharma&show_icons=true&locale=en&layout=compact" alt="its-garvsharma" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-garvsharma&show_icons=true&locale=en" alt="its-garvsharma" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srb-tyagi&show_icons=true&locale=en&layout=compact" alt="srb-tyagi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srb-tyagi&show_icons=true&locale=en" alt="srb-tyagi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srb-tyagi&" alt="srb-tyagi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-garvsharma&" alt="its-garvsharma" /></p>
