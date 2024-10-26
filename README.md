@@ -4,7 +4,7 @@
 ## 🚀 About Me
 **Hi, I’m Garv Kumar Sharma, a passionate Electronics & Communications Engineering student with a focus on VLSI design, semiconductor technology, and digital circuit design. I’m in my third year of B.Tech and have hands-on experience with tools like Cadence Virtuoso for designing and analyzing circuits, from basic to advanced logic systems. My projects have included radiation-hardened SRAM cells and non-inverting Schmitt triggers tailored for space applications. I'm dedicated to mastering concepts in analog and digital VLSI, hardware design, and Verilog programming.**
 
-- 💻 I have hands-on experience with *Cadence Virtuoso**, **Xilinx Vivado,EDA PLAGROUND, and FPGA Zynq-7000**.
+- 💻 I have hands-on experience with **Cadence Virtuoso**, **Xilinx Vivado,EDA PLAGROUND, and FPGA Zynq-7000**.
 - 🔧 Designed digital logic circuits, including **Basic Logic Gates,Arithmetic Circuits, Multiplexers, Encoders, Decoders**, and **Flip-flops**.
 - 🛠️ Worked on projects like **SRAM 6T Cell**, **Combinational Circuits**.
 
