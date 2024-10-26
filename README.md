@@ -31,11 +31,11 @@ I'm a **Hi, I’m Garv Kumar Sharma, a passionate Electronics & Communications E
   **Layout design, Schematic design**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srb-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="srb-tyagi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-garvsharma&label=Profile%20views&color=0e75b6&style=flat" alt="its-garvsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srb-tyagi" alt="srb-tyagi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-garvsharma" alt="its-garvsharma" /></a> </p>
 
-
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 📫 How to reach me
 - 📧 Email: garvkumarsharma61@gmail.com
