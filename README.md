@@ -24,7 +24,7 @@
 ## 🤝 I’m looking for help with
 - *Advanced Physical Design: Gaining deeper insights into **Physical Design flows**, **Timing Closure**, and **Layout Optimization**.
 - *RTL to GDSII Flow: Understanding best practices for **synthesis, **placement**, **routing**, and **verification**.
-- *Static Timing Analysis (STA): Looking for guidance on mastering **clock tree synthesis (CTS)** and *timing analysis** techniques.
+- *Static Timing Analysis (STA): Looking for guidance on mastering **clock tree synthesis (CTS)** and **timing analysis** techniques.
 - *Power Optimization Techniques: Learning more about **low-power design methodologies** for digital circuits.
 
 - 💬 **Ask me about**
